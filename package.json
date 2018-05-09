@@ -1,0 +1,15 @@
+{
+  "name": "windows98-css-framework",
+  "version": "0.0.1",
+  "description": "Bootstrap 4 based Windows 98 css framework ",
+  "main": "index.js",
+  "repository": "https://github.com/salatielq/windows98-css-framework.git",
+  "author": "Salatiel Queiroz <salatielsqueiroz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
